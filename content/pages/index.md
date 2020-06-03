@@ -50,6 +50,6 @@ The following companies can provide commercial software development and consulta
 
 <div class="affiliate-links"></div>
 
-| [![Clark Consulting & Research]({static}/images/ccr_python_excel.png)](http://www.clark-consulting.eu/) | [LingInfo](http://www.lexicon.net/sjmachin){.linginfo} |
-| ------------------------------------------------------------------------------------------------------- | --- |
-| [Clark Consulting & Research](http://www.clark-consulting.eu/)                                          | [http://www.lexicon.net/sjmachin](http://www.lexicon.net/sjmachin)
+| [![Clark Consulting & Research]({static}/images/ccr_python_excel.png)](http://www.clark-consulting.eu/) |
+| ------------------------------------------------------------------------------------------------------- |
+| [Clark Consulting & Research](http://www.clark-consulting.eu/)                                          |
