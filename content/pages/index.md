@@ -8,7 +8,8 @@ This site contains pointers to the best information available about working with
 ## The Packages
 
 There are python packages available to work with Excel files that will run on any Python platform and that do not require either Windows or Excel to be used. They are fast, reliable and open source:
-openpyxl
+
+### openpyxl
 
 The recommended package for reading and writing Excel 2010 files (ie: .xlsx)
 
