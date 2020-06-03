@@ -43,3 +43,13 @@ This package collects utilities that require both `xlrd` and `xlwt`, including t
 ## The Mailing List / Discussion Group
 
 There is a [Google Group](http://groups.google.com/group/python-excel) dedicated to working with Excel files in Python, including the libraries listed above along with manipulating the Excel application via COM. 
+
+## Commercial Development
+
+The following companies can provide commercial software development and consultancy and are specialists in working with Excel files in Python:
+
+<div class="affiliate-links"></div>
+
+| [![Clark Consulting & Research]({static}/images/ccr_python_excel.png)](http://www.clark-consulting.eu/) | [LingInfo](http://www.lexicon.net/sjmachin){.linginfo} |
+| ------------------------------------------------------------------------------------------------------- | --- |
+| [Clark Consulting & Research](http://www.clark-consulting.eu/)                                          | [http://www.lexicon.net/sjmachin](http://www.lexicon.net/sjmachin)
