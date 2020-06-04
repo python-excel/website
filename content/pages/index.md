@@ -18,6 +18,7 @@ The recommended package for reading and writing Excel 2010 files (ie: .xlsx)
 ### xlsxwriter
 
 An alternative package for writing data, formatting information and, in particular, charts in the Excel 2010 format (ie: .xlsx)
+
 [Download](https://pypi.python.org/pypi/XlsxWriter) | [Documentation](https://xlsxwriter.readthedocs.org/) | [GitHub](https://github.com/jmcnamara/XlsxWriter)
 
 ### xlrd
