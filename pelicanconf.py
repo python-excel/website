@@ -35,9 +35,14 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 STATIC_PATHS = [
-    'images'
+    'images',
+    'extra'
 ]
 
 PLUGINS = [
     'pelican_webassets'
 ]
+
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'}
+}
