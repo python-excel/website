@@ -5,7 +5,7 @@ url:
 This site contains pointers to the best information available about working with [Excel](https://products.office.com/en-us/excel) files in the [Python](http://www.python.org/) programming language.
 
 
-## The Packages
+## Reading and Writing Excel Files
 
 There are python packages available to work with Excel files that will run on any Python platform and that do not require either Windows or Excel to be used. They are fast, reliable and open source:
 
@@ -18,6 +18,7 @@ The recommended package for reading and writing Excel 2010 files (ie: .xlsx)
 ### xlsxwriter
 
 An alternative package for writing data, formatting information and, in particular, charts in the Excel 2010 format (ie: .xlsx)
+
 [Download](https://pypi.python.org/pypi/XlsxWriter) | [Documentation](https://xlsxwriter.readthedocs.org/) | [GitHub](https://github.com/jmcnamara/XlsxWriter)
 
 ### xlrd
@@ -39,6 +40,17 @@ This package collects utilities that require both `xlrd` and `xlwt`, including t
 ***NB:** In general, these use cases are now covered by openpyxl!*
 
 [Download](http://pypi.python.org/pypi/xlutils) | [Documentation](http://xlutils.readthedocs.io/en/latest/) | [GitHub](https://github.com/python-excel/xlutils)
+
+## Writing Excel Add-Ins
+
+The following products can be used to write Excel add-ins in Python.
+
+### PyXLL
+
+PyXLL is a commercial product that enables writing Excel add-ins in Python with no VBA. Python functions can be exposed as
+worksheet functions (UDFs), macros, menus and ribbon tool bars.
+
+[Homepage](https://www.pyxll.com) | [Features](https://www.pyxll.com/features.html) | [Documentation](https://www.pyxll.com/docs/index.html) | [Download](https://www.pyxll.com/download.html)
 
 ## The Mailing List / Discussion Group
 
