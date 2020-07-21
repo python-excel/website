@@ -21,6 +21,18 @@ An alternative package for writing data, formatting information and, in particul
 
 [Download](https://pypi.python.org/pypi/XlsxWriter) | [Documentation](https://xlsxwriter.readthedocs.org/) | [GitHub](https://github.com/jmcnamara/XlsxWriter)
 
+### pyxlsb
+
+This package allows you to read Excel files in the `xlsb` format.
+
+[Download](https://pypi.org/project/pyxlsb) | [GitHub](https://github.com/willtrnr/pyxlsb)
+
+### pylightxl
+
+This package allows you to read `xlsx` and `xlsm` files and write `xlsx` files.
+
+[Download](https://pypi.org/project/pylightxl) | [Documentation](https://pylightxl.readthedocs.io/en/latest/) | [GitHub](https://github.com/PydPiper/pylightxl)
+
 ### xlrd
 
 This package is for reading data and formatting information from older Excel files (ie: .xls)
@@ -43,7 +55,7 @@ This package collects utilities that require both `xlrd` and `xlwt`, including t
 
 ## Writing Excel Add-Ins
 
-The following products can be used to write Excel add-ins in Python.
+The following products can be used to write Excel add-ins in Python. Unlike the reader and writer packages, they require an installation of Microsoft Excel.
 
 ### PyXLL
 
@@ -51,6 +63,13 @@ PyXLL is a commercial product that enables writing Excel add-ins in Python with 
 worksheet functions (UDFs), macros, menus and ribbon tool bars.
 
 [Homepage](https://www.pyxll.com) | [Features](https://www.pyxll.com/features.html) | [Documentation](https://www.pyxll.com/docs/index.html) | [Download](https://www.pyxll.com/download.html)
+
+### xlwings
+
+xlwings is an open-source library to automate Excel with Python instead of VBA and works on Windows and macOS: you can call Python from Excel and vice versa and write UDFs in Python (Windows only). xlwings PRO is a commercial add-on with additional functionality.
+
+[Homepage](https://www.xlwings.org) | [Documentation](https://docs.xlwings.org/en/stable/) | [GitHub](https://github.com/xlwings/xlwings) | [Download](https://pypi.org/project/xlwings/)
+
 
 ## The Mailing List / Discussion Group
 
