@@ -15,6 +15,12 @@ The recommended package for reading and writing Excel 2010 files (ie: .xlsx)
 
 [Download](http://pypi.python.org/pypi/openpyxl) | [Documentation](https://openpyxl.readthedocs.org/) | [Bitbucket](https://bitbucket.org/openpyxl/openpyxl)
 
+### pyexcel
+
+Library with a unified api for reading and writing files with older Excel files (xls),  Excel 2010 files (xlsx), Open Spreadsheet files (ods), and many other data formats. 
+
+[Download](https://pypi.org/project/pyexcel/) | [Documentation](https://docs.pyexcel.org/en/latest/) | [Bitbucket](https://github.com/pyexcel/pyexcel)
+
 ### xlsxwriter
 
 An alternative package for writing data, formatting information and, in particular, charts in the Excel 2010 format (ie: .xlsx)
