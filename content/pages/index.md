@@ -21,6 +21,12 @@ An alternative package for writing data, formatting information and, in particul
 
 [Download](https://pypi.python.org/pypi/XlsxWriter) | [Documentation](https://xlsxwriter.readthedocs.org/) | [GitHub](https://github.com/jmcnamara/XlsxWriter)
 
+### pyexcel
+
+Library with a unified api for reading and writing files with older Excel format (xls), Excel 2010 format (xlsx), OpenDocument Spreadsheet format (ods), and many others.
+
+[Download](https://pypi.org/project/pyexcel/) | [Documentation](https://docs.pyexcel.org/en/latest/) | [Bitbucket](https://github.com/pyexcel/pyexcel)
+
 ### pyxlsb
 
 This package allows you to read Excel files in the `xlsb` format.
