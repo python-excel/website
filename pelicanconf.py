@@ -39,10 +39,6 @@ STATIC_PATHS = [
     'extra'
 ]
 
-PLUGINS = [
-    'pelican_webassets'
-]
-
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'}
 }
