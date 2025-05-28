@@ -1,0 +1,41 @@
+@import "_variables.scss";
+
+body {
+  color: $default-text-color;
+  font-family: Arial, Verdana, sans-serif;
+  font-size: 10pt;
+}
+
+.content {
+  padding: 3px 10px;
+}
+
+h1 {
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-top: 40px;
+}
+
+h3 {
+  font-size: 1.17em;
+}
+
+.footer {
+  padding: 10px 10px;
+  font-size: 9pt;
+}
+
+.affiliate-links + table {
+  text-align: center;
+  border-spacing: 10px;
+
+  tr, th {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+}
